@@ -4,8 +4,9 @@
 
 Advanced search help pages
 
-**issues**
-https://help.github.com/articles/searching-issues/
+**types of search** https://help.github.com/articles/searching-github/#types-of-searches
+
+**issues** https://help.github.com/articles/searching-issues/
 
 #### PRs I need to look at
 
